@@ -7,7 +7,7 @@
 % Output 2 (off) - Square, 50.000 000 000 kHz, 500.0 mVpp, offset 0.000 0 V, phase 0.000 000 deg, duty cycle 50.00 %, output termination 50 Ohm
 % Internal 10 MHz clock
 % Acquired 2026-08-12 T 11:57:16 +1000
-Time (s), Channel A (Input 1) (V), Channel B (Input 2) (V), Math (Ch A + Ch B) (V)
+% Time (s), Channel A (Input 1) (V), Channel B (Input 2) (V), Math (Ch A + Ch B) (V)
 -6.589574832000e+00, 1.231500e-01, 9.208333e-02, 2.152333e-01
 -6.576830800000e+00, 1.286000e-01, 8.700000e-02, 2.156000e-01
 -6.564086768000e+00, 1.343167e-01, 8.191667e-02, 2.162333e-01

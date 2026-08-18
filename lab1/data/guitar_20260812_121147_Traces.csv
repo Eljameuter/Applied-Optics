@@ -8,7 +8,7 @@
 % Internal 10 MHz clock
 % Acquired 2026-08-12 T 12:11:47 +1000
 % all strings on at a time, D,A,D?,G,B
-Time (s), Channel A (Input 1) (V), Channel B (Input 2) (V), Math (Ch A + Ch B) (V)
+% Time (s), Channel A (Input 1) (V), Channel B (Input 2) (V), Math (Ch A + Ch B) (V)
 -5.465470080000e+00, 7.873333e-02, 1.375167e-01, 2.162500e-01
 -5.454753472000e+00, 7.793333e-02, 1.376500e-01, 2.155833e-01
 -5.444036864000e+00, 7.926667e-02, 1.361833e-01, 2.154500e-01
